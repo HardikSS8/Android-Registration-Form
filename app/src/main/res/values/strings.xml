@@ -1,0 +1,23 @@
+<resources>
+
+    <!--    MainActivity - Strings-->
+    <string name="app_name">Simple Registration Form</string>
+    <string name="enter_the_details_for_social_account">Enter the Details for registration</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="other">Other</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="select_date">Select Date</string>
+    <string name="enter_password">Enter password</string>
+    <string name="agree_privacy_policy"><![CDATA[Agree ? Privacy & Policy]]></string>
+    <string name="signUp">Register</string>
+
+
+    <!--    User Data Show Activity - Strings-->
+    <string name="showUserData">TextView</string>
+    <string name="textview">TextView</string>
+
+</resources>
