@@ -1,4 +1,4 @@
-# Register_Form_in_Android
+# Registration_Form_in_Android
 This repository is a simple registration form app with all validation functionality developed in the android studio.
 
 #### -> Main purpose of this repository is to show how to use database in android studio to store the data entered in form and            display on to the next page of app.
