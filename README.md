@@ -1,7 +1,7 @@
 # Registration_Form_in_Android
 This repository is a simple registration form app with all validation functionality developed in the android studio.
 
-#### -> Main purpose of this repository is to show how to use database in android studio to store the data entered in form and            display on to the next page of app.
+#### -> Main purpose of this repository is to show how to use SQLite database in android studio to store the data entered in form and            display on to the next page of app.
 
 #### -> Here SQLite Database is created which can be found on DatabaseHelper class in the main folder of this app.
 
@@ -47,6 +47,14 @@ setError is shown as below.
 <br />
 
 ![Screenshot 2020-04-19 at 12 54 27 AM](https://user-images.githubusercontent.com/35401920/79697337-cbdeab00-829f-11ea-9ad7-f6d4d976ab67.png)
+
+<br />
+
+After adding the valid details in the text field error will be gone.
+
+<br /> 
+
+![Screenshot 2020-04-19 at 12 55 05 AM](https://user-images.githubusercontent.com/35401920/85198949-c4706800-b309-11ea-8334-ace8b2510506.png)
 
 <br />
 
