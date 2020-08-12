@@ -39,14 +39,14 @@ This repository is a simple registration form app with all validation functional
 Interface(Layout) of this registration form can be found in activity_main.xml file in the layout folder of this app.
 <br />
 
-![Screenshot 2020-04-19 at 12 53 45 AM](https://user-images.githubusercontent.com/35401920/79697333-c8e3ba80-829f-11ea-9733-d0488f2c4685.png)
+<img src="https://user-images.githubusercontent.com/35401920/79697333-c8e3ba80-829f-11ea-9733-d0488f2c4685.png" width=350>
 <br />
 
 setError is shown as below.
 
 <br />
 
-![Screenshot 2020-04-19 at 12 54 27 AM](https://user-images.githubusercontent.com/35401920/79697337-cbdeab00-829f-11ea-9ad7-f6d4d976ab67.png)
+<img src="https://user-images.githubusercontent.com/35401920/79697337-cbdeab00-829f-11ea-9ad7-f6d4d976ab67.png" width=350>
 
 <br />
 
@@ -54,7 +54,7 @@ After adding the valid details in the text field error will be gone.
 
 <br /> 
 
-![Screenshot 2020-04-19 at 12 55 05 AM](https://user-images.githubusercontent.com/35401920/85198949-c4706800-b309-11ea-8334-ace8b2510506.png)
+<img src="https://user-images.githubusercontent.com/35401920/85198949-c4706800-b309-11ea-8334-ace8b2510506.png" width=350>
 
 <br />
 
@@ -62,4 +62,4 @@ Finally after clicking on register, all entered data of that user will be erased
 
 <br />
 
-![Screenshot 2020-04-19 at 12 55 27 AM](https://user-images.githubusercontent.com/35401920/79697338-cda86e80-829f-11ea-9789-ab102a47e7a6.png)
+<img src="https://user-images.githubusercontent.com/35401920/79697338-cda86e80-829f-11ea-9789-ab102a47e7a6.png" width=350>
