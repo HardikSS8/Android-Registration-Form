@@ -46,20 +46,19 @@ setError is shown as below.
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/35401920/79697337-cbdeab00-829f-11ea-9ad7-f6d4d976ab67.png" width=350>
-
+<img src="https://user-images.githubusercontent.com/35401920/230036089-ba5f524a-0446-472e-a527-78b2fe27bf18.png" width=350>
 <br />
 
 After adding the valid details in the text field error will be gone.
 
 <br /> 
 
-<img src="https://user-images.githubusercontent.com/35401920/85198949-c4706800-b309-11ea-8334-ace8b2510506.png" width=350>
-
+<img src="https://user-images.githubusercontent.com/35401920/230036168-474851ac-6f37-4c11-b550-1ade4be4c891.png" width=350>
 <br />
 
 Finally after clicking on register, all entered data of that user will be erased and user can see the details on the next page of app.
 
 <br />
 
-<img src="https://user-images.githubusercontent.com/35401920/79697338-cda86e80-829f-11ea-9789-ab102a47e7a6.png" width=350>
+<img src="https://user-images.githubusercontent.com/35401920/230036272-7e2740bd-f053-463f-bde5-15f8b1eb27e6.png" width=350>
+
